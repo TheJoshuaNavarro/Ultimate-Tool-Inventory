@@ -3,29 +3,30 @@ Project to finally and once and for all organize all the tools I have hoarded an
 
 this is a Tool Inventory program for professional grade tools I acquire via estate sales, auctions, or promotional events. Some of the features:
 
-  add tools
+  a) add tools
   
-  add tool to category  as a class (hand tool, power tool, precision tool),
+  b) add tool to category  as a class (hand tool, power tool, precision tool),
   
-  add part numbers,
+  c) add part numbers,
   
-  add to set(set of wrenches, sockets, pliers, etc),
+  d) add to set(set of wrenches, sockets, pliers, etc),
   
-  remove from set,
+  e) remove from set,
   
-  add warranty expiration if available,
+  f) add warranty expiration if available,
   
-  retail price, discounted price if available,
+  g) retail price, discounted price if available,
   
-  sort by brand(top tier professional grade - to low tier generic brands),
+  h) sort by brand(top tier professional grade - to low tier generic brands),
   
-  if duplicate added item is better than current item, replace and sell current.
+  i) if duplicate added item is better than current item, replace and sell current.
   
-  if a tool is lost from a set add to replace list,
+  j) if a tool is lost from a set add to replace list,
   
-  print list of all tools that need to be replaced,
+  k) print list of all tools that need to be replaced,
   
-  tools maintenance or recalibration tracker if required,
+  z) tools maintenance or recalibration tracker if required.
+  
 
 
 These features are still a work in progress and I will add or remove some I develop this proogram.
