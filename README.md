@@ -1,4 +1,10 @@
+# CS 3354: Object-Oriented Design and Programming
+Fall 2026 • Section R01
+
+Team Member: Joshua Navarro
+
 # Ultimate-Tool-Inventory
+
 Project to finally and once and for all organize all the tools I have hoarded and piled in my garage.
 
 this is a Tool Inventory program for professional grade tools I acquire via estate sales, auctions, or promotional events. Some of the features:
